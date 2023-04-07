@@ -1,9 +1,4 @@
-# Projects made during "Data Scientics Plus"
-
-<p align=center>
-"Data Science Plus" Professional Training Course program by Yandex Practicum <br><br>
-</p>
-<br>
+# Projects complated whily studing at "Data Scientics Plus" program by Yandex.Practicum
 
 
 |     | Project                                    | Description | Libriaries | Status |
