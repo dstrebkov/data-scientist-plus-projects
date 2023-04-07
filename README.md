@@ -1,4 +1,4 @@
-# Projects complated whily studing at "Data Scientics Plus" program by Yandex.Practicum
+# Projects completed while studying at "Data Scientics Plus" program by Yandex.Practicum
 
 
 |     | Project                                    | Description | Tools / Libraries | Status |
