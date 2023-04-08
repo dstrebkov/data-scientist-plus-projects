@@ -4,12 +4,12 @@
 ## Data
 
 The following data on listening to tracks in the Yandex.Music service is available:
-- Track name
-- Track artist
-- Genre
-- City
-- Day of listening
-- Time of listening
+- `Track` — track name;
+- `artist` — track artist;
+- `genre` — genre;
+- `City` — city;
+- `Day` — Day of listening;
+- `time` — Time of listening.
 
 ## Task
 
