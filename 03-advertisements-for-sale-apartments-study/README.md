@@ -30,7 +30,7 @@ Data table consists of the following columns:
 
 ## Task
 
-Taks is based on data containing information on the sale of apartments in Saint-Petersburg and neighboring settlements for several years. It is necessary to determine the market value of real estate and set parameters, as well as it is necessary to analyze the data and draw conclusions on a number of indicators. This will help create an automated system that will track anomalies and fraudulent activity. Some of these data were entered by users, and some were obtained automatically on the basis of cartographic data.
+Task is based on data containing information on the sale of apartments in Saint-Petersburg and neighboring settlements for several years. It is necessary to determine the market value of real estate and set parameters, as well as it is necessary to analyze the data and draw conclusions on a number of indicators. This will help create an automated system that will track anomalies and fraudulent activity. Some of these data were entered by users, and some were obtained automatically on the basis of cartographic data.
 
 ## Used Tools & Libraries
 `pandas`, `matplotlib`
