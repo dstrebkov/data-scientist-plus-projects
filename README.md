@@ -1,4 +1,6 @@
-## Projects completed while studying at "[Data Scientist Plus](https://practicum.yandex.ru/data-scientist-plus)" program by Yandex.Practicum (2023)
+# "Data Scientist Plus" projects
+
+### Projects completed while studying at "[Data Scientist Plus](https://practicum.yandex.ru/data-scientist-plus)" program by Yandex.Practicum (2023)
 
 
 |     | Project                                    | Description | Tools / Libraries | Status |
