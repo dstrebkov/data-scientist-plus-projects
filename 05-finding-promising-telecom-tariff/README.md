@@ -48,7 +48,7 @@ Table `tariffs` (information about tariffs):
 ## Task
 
 Telecom company offers its clients two tariff plans: _"Smart"_ and _"Ultra"_. To adjust the advertising budget, the commercial department of the operator wants to understand which tariff brings more profit.
-It is needed to conduct a preliminary analysis of tariff plans on a small sample of clients. Available data contains information about `500` clients, such as: who they are, where they are from, what tariff they use, how many calls and messages each sent in `2018`. The task is to analyze the behavior of customers and draw a conclusion - which tariff of the two is better.
+It is needed to conduct a preliminary analysis of tariff plans on a small sample of clients. Available data contains information about `500` clients, such as: who they are, where they are from, what tariff they use, how many calls and messages each sent in `2018`. The task is to analyze the behavior of customers and draw a conclusion — which tariff of the two is better.
 
 ## Used Tools & Libraries
 `pandas`, `numpy`, `scipy`, `matplotlib`, `seaborn`
