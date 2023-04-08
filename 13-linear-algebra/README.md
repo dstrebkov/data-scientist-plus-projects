@@ -4,7 +4,7 @@
 
 Provided dataset features include: client gender, client age, client salary, number of people in client's family.
 
-Target feature is number of insurance payments to the client for the last `5` years.
+Target feature is a number of insurance payments to the client for the last `5` years.
 
 ## Task
 
