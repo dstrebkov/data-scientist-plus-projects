@@ -4,8 +4,8 @@
 
 Data taken from the [ChaLearn Looking at People](http://chalearnlap.cvc.uab.es/dataset/26/description/) website: folder with images and a CSV file `labels.csv` with the following two columns:
 
-- `file_name` — name of the while with person's photo;
-- `real_age` — age of person (target variable).
+- `file_name` — name of the file with person's photo;
+- `real_age` — age of a person (target variable).
 
 ## Task
 
