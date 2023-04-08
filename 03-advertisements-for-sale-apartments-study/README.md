@@ -19,9 +19,9 @@ Data table consists of the following columns:
 - `living_area` — living area in square meters (m²);
 - `locality_name` — locality name;
 - `open_plan` — is free layout or not (boolean type);
-- `parks_around3000` — number of parks within a 3 km radius;
+- `parks_around3000` — number of parks within a `3` km radius;
 - `parks_nearest` — distance to nearest park (m);
-- `ponds_around3000` — number of water bodies within a 3 km radius; 
+- `ponds_around3000` — number of water bodies within a `3` km radius; 
 - `ponds_nearest` — distance to the nearest body of water (m);
 - `rooms` — number of rooms;
 - `studio` — is studio-apartment or not (boolean type);
