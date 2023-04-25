@@ -11,4 +11,4 @@ Some telecom operator wants to deal with the outflow of customers. To do this, i
 The ROC-AUC metric value must be at least `0.85`. For model interpretability, additionally display the accuracy value.
 
 ## Used Tools & Libraries
-`pandas`
+`pandas`, `numpy`, `matplotlib`, `seaborn`
