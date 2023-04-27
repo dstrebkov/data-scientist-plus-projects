@@ -2,7 +2,49 @@
 
 ## Data
 
-To be analyzed...
+The data is stored in a PostgreSQL database. It consists of several tables:
+
+- `contract` — information about contracts;
+- `personal` — personal data of clients;
+- `internet` — information about Internet services;
+- `phone` — information about telephony services.
+
+__________________
+
+Table `contract` stores the following data:
+
+- `customerID` — subscriber ID;
+- `BeginDate` — start date of the contract;
+- `EndDate` — contract end date;
+- `Type` — type of payment: once a year or two or monthly;
+- `PaperlessBilling` — electronic payslip;
+- `PaymentMethod` — payment type;
+- `MonthlyCharges` — expenses per month;
+- `TotalCharges` — subscriber's total expenses.
+
+Table `personal` stores the following data:
+
+- `customerID` — user ID;
+- `gender` — gender;
+- `SeniorCitizen` — whether the subscriber is a pensioner;
+- `Partner` — whether the subscriber has a spouse;
+- `Dependents` — whether the subscriber has children.
+
+Table `internet` stores the following data:
+
+- `customerID` — user ID;
+- `InternetService` — connection type;
+- `OnlineSecurity` — blocking dangerous sites;
+- `OnlineBackup` — cloud file storage for data backup;
+- `DeviceProtection` — antivirus;
+- `TechSupport` — dedicated technical support line;
+- `StreamingTV` — streaming television;
+- `StreamingMovies` — a catalog of movies.
+
+Table `phone` stores the following data:
+
+- `customerID` — user ID;
+- `MultipleLines` — connect the phone to several lines at the same time.
 
 ## Task
 
