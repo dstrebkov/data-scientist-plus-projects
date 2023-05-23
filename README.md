@@ -2,7 +2,7 @@
 
 #### Projects completed while studying at "[Data Scientist Plus](https://practicum.yandex.ru/data-scientist-plus)" program by Yandex.Practicum (2023)
 
-State-recognized Diploma of professional retraining: [English version PDF](https://github.com/dstrebkov/data-scientist-plus-projects/blob/main/yandex_practicum_ds%2B_en.pdf) / [Russian version PDF](https://github.com/dstrebkov/data-scientist-plus-projects/blob/main/yandex_practicum_ds%2B_ru.pdf)
+State-recognized Diploma of professional retraining (PDF): [English version](https://github.com/dstrebkov/data-scientist-plus-projects/blob/main/yandex_practicum_ds%2B_en.pdf) / [Russian version](https://github.com/dstrebkov/data-scientist-plus-projects/blob/main/yandex_practicum_ds%2B_ru.pdf)
 
 
 
